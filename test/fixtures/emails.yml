@@ -13,7 +13,7 @@ valid:
   - "dot.inLocal@foo.com"
   - "a@singleLetterLocal.org"
   - "singleLetterDomain@x.org"
-  - "foor@bar.newTLD"
+  - "foo@bar.newTLD"
   - "with+plus@example.com"
 
 

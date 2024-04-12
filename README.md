@@ -42,7 +42,7 @@ RubyRegex::Dni
 
 ## Contribute
 
-Of course, contributions will be apreciated.
+Of course, contributions will be appreciated.
 
 If you want to contribute send me a pull request with new regular expressions (and their tests) or send me an email  with your desired regular expression to emili@eparreno.com
 
